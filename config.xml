@@ -26,10 +26,8 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
 	<plugin name="cordova-plugin-admob-free">
-		<variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713">
+		<variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" />
 	</plugin>
-
-
 
 	<engine name="android" />
 </widget>
